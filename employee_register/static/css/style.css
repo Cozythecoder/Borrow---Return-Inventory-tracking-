@@ -1,0 +1,28 @@
+/* styles.css */
+body {
+    background-color: rgb(41, 40, 65)
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    padding: 10px 15px;
+}
+
+.dropdown-menu {
+    background-color: #f8f9fa;
+}
+
+.dropdown-item:hover {
+    background-color: #e9ecef;
+}
+
+#datatable_employee_filter > label:nth-child(1) {
+    color: white;
+}

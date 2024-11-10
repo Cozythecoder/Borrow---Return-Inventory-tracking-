@@ -1,0 +1,6 @@
+Django
+django-npm
+pylast
+requests
+lxml
+beautifulsoup4
